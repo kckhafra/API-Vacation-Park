@@ -1,0 +1,12 @@
+.last-item{
+    margin-bottom: 30px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    line-height: 16px;
+    font-size: 12px;
+}
